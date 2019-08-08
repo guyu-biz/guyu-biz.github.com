@@ -1,7 +1,8 @@
 # Project template
 - layout: top-middle
   pic: http://static.luckyhu.top:8824/huji.jpg
-  name: 胡霁(发起人)
+  name: 胡霁
+  title: 发起人
   description: | # this will include new lines to allow paragraphs
     北京交通大学通信工程学士(2007-2011)
 
@@ -14,13 +15,15 @@
 
 - layout: top-middle
   pic: http://static.luckyhu.top:8824/huji.jpg
-  name: 吴志川(首席咨询师)
+  name: 吴志川
+  title: 首席咨询师
   description: | # this will include new lines to allow paragraphs
     北京大学计算机与科学技术学士
     北京大学计算机与科学技术硕士
 
 - layout: top-middle
   pic: http://static.luckyhu.top:8824/huji.jpg
-  name: 白庆奇(首席架构师)
+  name: 白庆奇
+  title: 首席架构师
   description: | # this will include new lines to allow paragraphs
     西安交通大学计算机与科学技术学士
