@@ -1,10 +1,50 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: 技术咨询
+  job_title: 限时特价
+  dates: 在线咨询100元1小时起，超过1小时部分，每半小时40元。重庆主城区可承接线下咨询。
   quote: >
-   Short description of the company (optional)
+   面向个人和中小企业
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    适用中小传统企业的互联网+，希望利用互联网技术进行精细化自动化管理，但对相关的投入和效果以及可能遇到的问题经验不足。
+    也适用于个人希望进行互联网创业或者希望把自己的某些点子实现为软件，但对相关领域的技术难度和可行性评估经验不足。团队
+    拥有多年的技术研发以及互联网公司项目管理经验，可以帮助你更好地梳理问题，探讨出最适合您的实施路径。
+
+- layout: left
+  company: 软件开发
+  job_title: 面议
+  dates: 根据软件需求商定
+  quote: >
+   面向个人和中小企业
+  description: | # this will include new lines to allow paragraphs
+    团队可承接一定规模的MVP(最小化可行性产品)，或者帮你介绍和把关其他第三方外包团队，以帮助您更好更快地完成您的设想。
+
+- layout: left
+  company: 数据分析及可视化
+  job_title: 面议
+  dates: 根据软件需求商定
+  quote: >
+   面向中小企业
+  description: | # this will include new lines to allow paragraphs
+    利用机器学习和大数据，对您的企业内部数据进行数据分析，报表产出，数据预估等。
+
+- layout: left
+  company: 编程辅导
+  job_title: 面议
+  dates: 根据需求商定，重庆主城区可承接线下辅导。
+  quote: >
+   面向个人和中小企业
+  description: | # this will include new lines to allow paragraphs
+    团队拥有非常全面的互联网技术积累，对大多数常见的计算机语言和技术框架都熟练掌握，完全能够满足您从零开始的编程之旅，
+    我们更加专业的行业经验，也能帮助您更少走弯路，相比其他大型的培训机构，我们可以以行业内部的视角，为您量身打造和规划
+    适合您的职业路线。
+
+- layout: left
+  company: 面试辅导
+  job_title: 面议
+  dates: 根据需求商定，重庆主城区可承接线下辅导。
+  quote: >
+   面向个人
+  description: | # this will include new lines to allow paragraphs
+    团队成员都曾通过各大公司的层层面试，在任职过程中，也作为面试官面试过数百人，所以对公司的常见问题和答题套路，以及用人
+    标准都有一定积累，相信更能帮助你早日进入心仪的公司。
