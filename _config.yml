@@ -46,12 +46,18 @@ education_title: 合作企业
 # More Section
 more_title: 最后
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  想了想还是写点情怀，我们都曾经在一线城市打拼，最近纷纷回到重庆，感叹重庆的互联网企业之少，和一些传统企业的老板
+  聊天的过程中发现，传统企业也有很多需要用互联网思维，用计算机技术来解决的痛点，但这些中小企业主本身都是公司的中流
+  砥柱，日常非常繁忙，并没有那么多的时间和精力去学习和理解互联网技术到底能带来什么，应该怎么一步一步去实施。
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  与此同时重庆的互联网人才相对也非常匮乏，我在招聘网站上看到有相当多的传统企业或者小型公司都在招聘互联网人才，有的
+  职位已经发布了数月都没有招到合适的人，这就造成了一个死循环，没有相应的互联网企业吸引不到相应的人才，进而更发展不
+  出相应的企业。
+
+  成立这个工作室的目的，一方面我们希望能帮助这些企业和个人解决问题，另一方面也希望能探索一条适合在二三线城市发展的互联网企业之路。
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
