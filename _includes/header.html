@@ -92,12 +92,12 @@
       {%- endif -%}
       {%- if site.phone -%}
         <p>
-          Phone: {{ site.phone | escape }}
+          电话: {{ site.phone | escape }}
         </p>
       {%- endif -%}
       {%- if site.website -%}
         <p>
-          Web: {% include a.html href=site.website %}{{ site.website | escape }}</a>
+          网站: {% include a.html href=site.website %}{{ site.website | escape }}</a>
         </p>
       {%- endif -%}
     </div>
