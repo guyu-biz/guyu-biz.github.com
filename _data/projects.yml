@@ -1,29 +1,35 @@
 # Project template
 - layout: top-middle
-  pic: http://static.luckyhu.top:8824/huji.jpg
+  pic: http://static.luckyhu.top:8824/huji.jpg?v=1
   name: 胡霁
   title: 发起人
   description: | # this will include new lines to allow paragraphs
     北京交通大学通信工程学士(2007-2011)
 
-    曾工作于百度，阿里巴巴，滴滴等知名互联网公司，也有数个初创公司经历，互联网行业从业8年，
-    后逐步开始技术管理工作，曾带过15人的工程师团队。在滴滴时深度参与快车，专车，拼车，国际化
+    曾工作于百度，阿里巴巴，滴滴等知名互联网公司和数个初创企业，互联网行业从业8年，
+    2015年逐步开始技术管理工作，曾带过15人的工程师团队。在滴滴时深度参与快车，专车，拼车，国际化
     等项目，对互联网企业的项目管理规划有一定的认识，流利的英文听说读写能力。
 
     万金油工程师，多年移动端的研发架构经验，也有一定的网站应用，后台应用以及桌面应用的开发经验，发布过上线的游戏作品，
     熟悉常见编程语言和技术框架。
 
 - layout: top-middle
-  pic: http://static.luckyhu.top:8824/huji.jpg
+  pic: http://static.luckyhu.top:8824/wuzhichuan.jpg
   name: 吴志川
   title: 首席咨询师
   description: | # this will include new lines to allow paragraphs
-    北京大学计算机与科学技术学士
-    北京大学计算机与科学技术硕士
+    北京大学计算机科学与技术学士(2007-2011),北京大学计算机科学与技术硕士(2011-2013)
+    
+    毕业后先后工作于网易，腾讯，阿里巴巴等互联网公司，互联网行业从业5年。主要偏互联网后台服务端及数据分析方向，
+    工作相关内容包括高并发互联网后台服务的研发，大规模用户数据分析平台的搭建，利用深度学习模型进行复杂数据分析。
+    有良好的工作沟通能力，以及流利的英文听说读写能力。
+
+    技术涉猎比较广泛，多年数据挖掘相关经验，后台服务研发经验，并曾研究过多种人工智能相关模型，
+    熟悉常见的编程语言与技术框架。
 
 - layout: top-middle
   pic: http://static.luckyhu.top:8824/huji.jpg
   name: 白庆奇
   title: 首席架构师
   description: | # this will include new lines to allow paragraphs
-    西安交通大学计算机与科学技术学士
+    西安交通大学计算机科学与技术学士(2007-2011)
