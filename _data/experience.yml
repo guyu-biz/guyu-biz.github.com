@@ -37,14 +37,15 @@
   description: | # this will include new lines to allow paragraphs
     团队拥有非常全面的互联网技术积累，对大多数常见的计算机语言和技术框架都熟练掌握，完全能够满足您从零开始的编程之旅，
     我们更加专业的行业经验，也能帮助您更少走弯路，相比其他大型的培训机构，我们可以以行业内部的视角，为您量身打造和规划
-    适合您的职业路线。
+    适合您的职业路线。我们也可承接针对青少年以兴趣为导向的编程培训，以游戏化的教学方式，让学生逐步掌握计算机知识，并培养
+    学生的自学能力。详细内容可微信咨询。
 
-- layout: left
-  company: 面试辅导
-  job_title: 面议
-  dates: 根据需求商定，重庆主城区可承接线下辅导。
-  quote: >
-   面向个人
-  description: | # this will include new lines to allow paragraphs
-    团队成员都曾通过各大公司的层层面试，在任职过程中，也作为面试官面试过数百人，所以对公司的常见问题和答题套路，以及用人
-    标准都有一定积累，相信更能帮助你早日进入心仪的公司。
+#- layout: left
+#  company: 面试辅导
+#  job_title: 面议
+#  dates: 根据需求商定，重庆主城区可承接线下辅导。
+#  quote: >
+#   面向个人
+#  description: | # this will include new lines to allow paragraphs
+#    团队成员都曾通过各大公司的层层面试，在任职过程中，也作为面试官面试过数百人，所以对公司的常见问题和答题套路，以及用人
+#    标准都有一定积累，相信更能帮助你早日进入心仪的公司。

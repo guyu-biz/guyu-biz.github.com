@@ -4,9 +4,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: 谷雨工作室
-title: 面向个人和中小企业的技术咨询，软件开发，数据分析，编程辅导，面试辅导
+title: 面向个人和中小企业的技术咨询，软件开发，数据分析，编程辅导
 email: huji624@qq.com
-phone: 13811153387(微信，添加请备注谷雨)
+phone: huji624(添加请备注谷雨)
 website: guyu.biz
 
 # Social links
@@ -46,7 +46,7 @@ education_title: 合作企业
 # More Section
 more_title: 最后
 more_content: | # this will include new lines to allow paragraphs
-  想了想还是写点情怀，我们都曾经在一线城市打拼，最近纷纷回到重庆，感叹重庆的互联网企业之少，和一些传统企业的老板
+  我们都曾经在一线城市打拼，最近纷纷回到重庆，感叹重庆的互联网企业之少，和一些传统企业的老板
   聊天的过程中发现，传统企业也有很多需要用互联网思维，用计算机技术来解决的痛点，但这些中小企业主本身都是公司的中流
   砥柱，日常非常繁忙，并没有那么多的时间和精力去学习和理解互联网技术到底能带来什么，应该怎么一步一步去实施。
 
