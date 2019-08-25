@@ -1,0 +1,7 @@
+# Product Template
+- layout: left
+  pic: http://static.luckyhu.top:8824/youling.jpg
+  quote: >
+    适合上班族的盯盘软件 - 幽灵股票
+  description: | # this will include new lines to allow paragraphs
+    项目详情：<a href="https://luckyhu.top/gs">点这里</a>

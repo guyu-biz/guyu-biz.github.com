@@ -1,0 +1,6 @@
+<div class="container education-container">
+  <h3>{{ site.product_title | default: "工作室产品" }}</h3>
+  {% for product in site.data.product %}
+    {% include {{ product.layout | default: 'left' | append: ".html" }} item=product %}
+  {% endfor %}
+</div>
