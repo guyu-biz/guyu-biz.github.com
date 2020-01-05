@@ -7,11 +7,11 @@
     这是一款适合上班族偷偷默默看盘的软件，项目详情：<a href="https://luckyhu.top/gs">点这里</a>
 
 - layout: left
-  pic: https://guyu.biz/hextris/images/twitter-opengraph.png
+  pic: https://lab.guyu.biz/hextris/images/twitter-opengraph.png
   quote: >
     轻松小游戏，简单易上手 - 六边俄罗斯
   description: | # this will include new lines to allow paragraphs
-    这是一款和俄罗斯方块类似的休闲小游戏，把相同颜色的方块放在一起，就可以得分，现在就是去试试吧：<a href="https://guyu.biz/hextris/">点这里</a>
+    这是一款和俄罗斯方块类似的休闲小游戏，把相同颜色的方块放在一起，就可以得分，现在就是去试试吧：<a href="https://lab.guyu.biz/hextris/">点这里</a>
 
 - layout: left
   pic: http://static.luckyhu.top:8824/xiaoming.png
@@ -19,3 +19,10 @@
     微信小游戏 - 非标准小明
   description: | # this will include new lines to allow paragraphs
     故事背景发生在未来世界，一部分穷人被迫到地下生活，视觉发生退化，所以只能看到黑白灰三种颜色。微信扫一扫或者搜索非标准小明立刻开玩。
+
+- layout: left
+  pic: http://static.luckyhu.top:8824/kuaizuyou.png
+  quote: >
+    微信小程序 - 快租游
+  description: | # this will include new lines to allow paragraphs
+    一个覆盖全游戏的游戏租赁平台，租到你想玩的游戏!项目详情：<a href="http://kzy.guyu.biz">点这里</a>
